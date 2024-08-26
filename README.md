@@ -33,4 +33,4 @@ Self-learned and self-motivated Web Developer with medium level of experience wo
 
 ## 🛠 Technologies and Tools I use:
 
-![skills](https://skillicons.dev/icons?i=html,css,js,java,spring,wordpress,nodejs,react,mysql,docker,kubernetes,git,jquery,vscode&theme=light)
+![skills](https://skillicons.dev/icons?i=html,css,js,java,spring,nodejs,react,mysql,docker,kubernetes,git,github,jquery,vscode,sts,intelIj&theme=light)
